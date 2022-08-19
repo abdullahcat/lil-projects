@@ -1,0 +1,1 @@
+Dist dosyası içinden uygulamayı açabilirsiniz.
